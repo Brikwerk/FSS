@@ -3,7 +3,7 @@
 python3 mae_test.py \
 --root_data_path "/Datasets" \
 --dataset isic \
---test_episodes 30 \
+--test_episodes 1000 \
 --pretrain_epochs 20 \
 --pretrain_iters 50 \
 --finetune_epochs 0 \
